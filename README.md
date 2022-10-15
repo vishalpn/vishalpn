@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishalpn
+- 👋 Hi, I’m Vishal Nakhate
 - 👀 I’m interested in Blockchain technology and web3.0
 - 🌱 I’m currently learning etherium blockchain technolgy
 - 💞️ I’m looking to collaborate on blockchain development 
